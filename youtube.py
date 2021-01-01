@@ -23,9 +23,6 @@ sleep(2)
 driver.get('https://www.youtube.com/playlist?list=LL')
 sleep(5)
 
-name = soup.select('span#video-title')
-videos=driver.find_elements_by_class_name('style-scope ytd-playlist-video-renderer')
-view = soup.select('span#video-title')
 
 
 ydl_opts = {} 
