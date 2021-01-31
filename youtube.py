@@ -41,7 +41,7 @@ time.sleep(5)
 playlist=[]
 videos=driver.find_elements_by_class_name('style-scope ytd-playlist-video-renderer')
 for video in videos:
-    link=video.find_element_by_xpath('.//*[@id="content"]/a').get_attribute("href")
+    link=video.find_element_by_xpath('.//*[@id="thumbnail"]/a').get_attribute("href")
     playlist.append(link)
     
 vidlist=vidstrip(playlist)
