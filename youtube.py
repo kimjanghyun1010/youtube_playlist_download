@@ -34,6 +34,13 @@ def vidstrip(playlist):
     return playlist
 
 
+body = driver.find_element_by_css_selector('body')
+for i in range(50):
+    body.send_keys(Keys.PAGE_DOWN)
+
+
+
+
 # url = input("Enter youtube playlist link : ")
 # driver = webdriver.Chrome() 
 # driver.get(url)
