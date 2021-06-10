@@ -1,0 +1,8 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+chromedriver==2.24.1
+chromedriver-autoinstaller==0.2.2
+fire==0.4.0
+selenium==3.141.0
+selenium-stealth==1.0.6
+youtube-dl==2020.12.31
