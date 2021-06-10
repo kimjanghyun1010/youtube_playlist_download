@@ -5,7 +5,7 @@ selenium을 통해 자동화 하는건 google이 막고 있기 때문에 google�
 간접 로그인을 하고, youtube playlist로 redirect함 <br>
 
 ##### 2021-05 update <br>
-selenium을 통해 구글 로그인 하는것에 대해 강화가 더 심해져서 selenium stealth 기능을 추가함 <br>
+selenium을 통해 구글 로그인 하는것에 대해 보안 강화가 더 심해져서 selenium stealth 기능을 추가함 <br>
 
 ##### 2021-06-11 update <br>
 stackoverflow로 로그인하면 captcha에 걸림 네이버 captcha 우회는 찾아지지만 구글은 아직 해결책이 없는걸로 확인함 <br>
