@@ -1,4 +1,4 @@
-## youtube playlist 전체 crawling으로 다운받기
+## youtube playlist crawling으로 다운받기
 
 ##### 2021-02 start <br>
 selenium을 통해 자동화 하는건 google이 막고 있기 때문에 google에서 직접적으로 로그인 하지는 못하고, stackoverflow 사이트로 우회해서 로그인 진행함 <br>
