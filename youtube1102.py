@@ -112,8 +112,8 @@ def login(username, password):       # Logs in the user
         del username, password
         driver.quit()
 
-USERNAME = "mskjh9@gmail.com"
-PASSWORD = "10dnjf10dlf!@"
+USERNAME = "email"
+PASSWORD = "password"
 
 # Assign drivers here.
 
