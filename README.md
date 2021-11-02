@@ -10,3 +10,6 @@ selenium을 통해 구글 로그인 하는것에 대해 보안 강화가 더 심
 ##### 2021-06-11 update <br>
 stackoverflow로 로그인하면 captcha에 걸림<br>
 앞에서 stealth 기능을 추가 했더니 youtube로 바로 로그인이 가능해져서 시작 경로만 수정 <br>
+
+##### 2021-11-02 update <br>
+다운 도중 취소가 잘안돼서 수정함<br>
